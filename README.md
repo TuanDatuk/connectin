@@ -8,3 +8,4 @@
 <li>Horray! Installer is ready. Install it by visiting browser and Taste our <strong>SaleBot</strong></li>
 </ul>  
 # connectin
+# connectin
